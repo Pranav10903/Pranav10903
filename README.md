@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Tatavarthy</h1>
-<h3 align="center">A Problem Solving & web development enthusiast, 2024 CSE Graduate.</h3>
+<h3 align="center">A Problem Solving & web development enthusiast, CSE Undergrad.</h3>
 
 - 🔭 I’m currently working on [Problem Solving](https://leetcode.com/Pranav1903/)
 
