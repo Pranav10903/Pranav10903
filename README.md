@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 💬 Ask me about **DSA, Competitive coding and web development.**
+- 💬 Ask me about **DSA, Competitive coding and Software Development.**
 
 - 📫 How to reach me **pranavtatavarthy12@gmail.com**
 
