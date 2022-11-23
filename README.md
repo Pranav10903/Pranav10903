@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Tatavarthy</h1>
 <h3 align="center">A Problem Solving & web development enthusiast, CSE Undergrad.</h3>
 
-- 🔭 I’m currently working on [Problem Solving](https://leetcode.com/Pranav1903/)
+- 🔭 I’m currently working on [Problem  Solving and Software Development.](https://leetcode.com/Pranav1903/)
 
 - 🌱 I’m currently learning **MERN Stack.**
 
