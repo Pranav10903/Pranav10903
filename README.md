@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Problem  Solving and Software Development.](https://leetcode.com/Pranav1903/)
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Springboot & Angular.**
 
 - 💬 Ask me about **DSA, Competitive programming and Software Development.**
 
