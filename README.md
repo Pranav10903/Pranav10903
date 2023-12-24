@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Springboot.**
 
-- 💬 Ask me about **DSA, Competitive programming and Software Development.**
+- 💬 Ask me about **DSA and Software Development.**
 
 - 📫 How to reach me **pranavtatavarthy12@gmail.com**
 
